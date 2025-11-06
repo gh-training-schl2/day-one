@@ -3,9 +3,9 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here 
-Test comment
-blabla
+Good morning from Thanh!! ⭐👍
+
+Some new thing
 
 ![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
 {: .center}
